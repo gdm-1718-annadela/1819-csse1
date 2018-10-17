@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lesweek3
+namespace lesweek4
 {
     class Program
     {
@@ -88,6 +88,34 @@ namespace lesweek3
                 else
                 {
                     Console.WriteLine("Het resultaat is te laag");
+                }
+
+                //forloop
+                for(int i= 0; i < 11; i++){
+                    Console.WriteLine("De teller is nu " + i);
+                }
+
+                for(int firstNum =0; firstNum<11; firstNum++){
+                    Console.WriteLine("tafel van" + firstNum);
+                    for(int secondNum = 0; secondNum< 11; secondNum ++){
+                        Console.WriteLine(firstNum + " x "+  secondNum + " = " + firstNum * secondNum);
+                    }
+                }
+
+                //do while
+                int getal = 3;
+                do
+                {
+                    Console.WriteLine("De waarde van het getal is:  "+ getal);
+                    getal++;
+                }while(getal < 5);
+
+                //while
+                int getal2 = 4;
+                while(getal2 < 5)
+                {
+                    Console.WriteLine("De waarde van het getal2 is:  "+ getal2);
+                    getal2++;
                 }
         }
 
