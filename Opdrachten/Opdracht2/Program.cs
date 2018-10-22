@@ -6,7 +6,13 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
+            //Alle tafels
+            for(int firstNum =0; firstNum<11; firstNum++){
+                Console.WriteLine("tafel van " + firstNum);
+                for(int secondNum = 0; secondNum< 11; secondNum ++){
+                    Console.WriteLine(firstNum + " x "+  secondNum + " = " + firstNum * secondNum);
+                }
+            }
             //Faculteit
             int getal=10;
             int fac = getal;
@@ -17,13 +23,13 @@ namespace Opdracht2
             Console.WriteLine("De faculteit van het ingevoerde getal is " + fac);
 
             //Rij van Fibonacci
-            int firstNum=0;
+            int firstNumFib=0;
             int sum=1;
             for(int fib = 0; fib<10; fib++){
-                sum = firstNum + sum;
-                Console.WriteLine(firstNum);
+                sum = firstNumFib + sum;
+                Console.WriteLine(firstNumFib);
                 Console.WriteLine(sum);
-                firstNum= firstNum + sum;
+                firstNumFib= firstNumFib + sum;
                 // secondNum++;
                 
             }
