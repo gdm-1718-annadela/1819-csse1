@@ -12,6 +12,7 @@ namespace Opdracht2
                 for(int secondNum = 0; secondNum< 11; secondNum ++){
                     Console.WriteLine(firstNum + " x "+  secondNum + " = " + firstNum * secondNum);
                 }
+
             }
             //Faculteit
             int getal=10;
