@@ -6,16 +6,16 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            //Tafel
+            //Tafel van gekozen getal.
             Program program = new Program();
             int tafelVan = Convert.ToInt32(Console.ReadLine());
             program.Tafel(tafelVan);
 
-            //Faculteit
+            //Faculteit van gekozen getal.
             int getal = Convert.ToInt32(Console.ReadLine());
             program.Faculteit(getal);
 
-            //Rij van Fibonacci
+            //Rij van Fibonacci tot gekozen getal.
             int getalFib = Convert.ToInt32(Console.ReadLine());
             program.Fibonacci(getalFib);
         }
