@@ -6,35 +6,46 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            //Alle tafels
-            for(int firstNum =0; firstNum<11; firstNum++){
-                Console.WriteLine("tafel van " + firstNum);
-                for(int secondNum = 0; secondNum< 11; secondNum ++){
-                    Console.WriteLine(firstNum + " x "+  secondNum + " = " + firstNum * secondNum);
-                }
+            //Tafel
+            Program program = new Program();
+            int tafelVan = Convert.ToInt32(Console.ReadLine());
+            program.Tafel(tafelVan);
 
-            }
             //Faculteit
-            int getal=10;
-            int fac = getal;
-            while(getal >2){
-                getal -= 1;
-                fac *= getal;
-            };
-            Console.WriteLine("De faculteit van het ingevoerde getal is " + fac);
+            int getal = Convert.ToInt32(Console.ReadLine());
+            program.Faculteit(getal);
 
             //Rij van Fibonacci
-            int firstNumFib=0;
-            int sum=1;
-            for(int fib = 0; fib<10; fib++){
-                sum = firstNumFib + sum;
-                Console.WriteLine(firstNumFib);
-                Console.WriteLine(sum);
-                firstNumFib= firstNumFib + sum;
-                // secondNum++;
-                
+            int getalFib = Convert.ToInt32(Console.ReadLine());
+            program.Fibonacci(getalFib);
+        }
+            void Tafel(int tafelgetal){
+            Console.WriteLine("De tafel van " + tafelgetal);
+            for(int firstNum = 0; firstNum<11; firstNum++){
+                int resultaat = firstNum * tafelgetal;
+                Console.WriteLine(firstNum + " x " + tafelgetal + " = " + resultaat);
+                }
             }
 
+            void Faculteit(int getal){
+                int fac = getal;
+                while(getal >2){
+                    getal -= 1;
+                    fac *= getal;
+                };
+            Console.WriteLine("De faculteit van het ingevoerde getal is " + fac);
+            }
+
+            void Fibonacci(int getalFib){
+                int firstNumFib=0;
+                int sum=1;
+                for(int fib = 0; fib<getalFib; fib++){
+                    sum = firstNumFib + sum;
+                    Console.WriteLine(firstNumFib);
+                    Console.WriteLine(sum);
+                    firstNumFib= firstNumFib + sum;
+                }
+            }
         }
     }
-}
+
