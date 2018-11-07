@@ -6,7 +6,7 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            //Alle tafels
+            //Alle tafels.
             for(int getaltafel =0; getaltafel<11; getaltafel++){
                 Console.WriteLine("tafel van " + getaltafel);
                 for(int getaltafeltwee = 0; getaltafeltwee< 11; getaltafeltwee ++){
