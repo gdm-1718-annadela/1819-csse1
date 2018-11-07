@@ -6,16 +6,26 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
+            //Alle tafels
+            for(int getaltafel =0; getaltafel<11; getaltafel++){
+                Console.WriteLine("tafel van " + getaltafel);
+                for(int getaltafeltwee = 0; getaltafeltwee< 11; getaltafeltwee ++){
+                    Console.WriteLine(getaltafel + " x "+  getaltafeltwee + " = " + getaltafel * getaltafeltwee);
+                }
+            }
             //Tafel van gekozen getal.
             Program program = new Program();
+            Console.WriteLine("kies een getal voor uw tafel te kiezen");
             int tafelVan = Convert.ToInt32(Console.ReadLine());
             program.Tafel(tafelVan);
 
             //Faculteit van gekozen getal.
+            Console.WriteLine("kies getal voor uw faculteit te verkrijgen");
             int getal = Convert.ToInt32(Console.ReadLine());
             program.Faculteit(getal);
 
             //Rij van Fibonacci tot gekozen getal.
+            Console.WriteLine("kies uw limiet");
             int getalFib = Convert.ToInt32(Console.ReadLine());
             program.Fibonacci(getalFib);
         }
