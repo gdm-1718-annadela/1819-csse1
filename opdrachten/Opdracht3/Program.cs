@@ -8,7 +8,7 @@ namespace Opdracht3
     {
         static void Main(string[] args)
         {
-            //Opdracht 1
+            //Opdracht 1.
                 //Menu vertonen.
                 Dictionary<string, double> menu = new Dictionary<string, double>();
                 menu.Add("plat water", 1);
@@ -34,19 +34,21 @@ namespace Opdracht3
                 sortedMenu.Add("toast", 5);
                 sortedMenu.Add("kaasplank", 4);
 
-                // Console.WriteLine();
-                // Console.WriteLine("het gesorteerd menu");
-                // foreach(var menulist  in sortedMenu){
-                //     Console.WriteLine(menulist.Key + "\t" + menulist.Value);
-                // }
+                Console.WriteLine();
+                Console.WriteLine("het gesorteerd menu");
+                foreach(var menulist  in sortedMenu){
+                    Console.WriteLine(menulist.Key + "\t" + menulist.Value);
+                }
 
                 //Kiezen van artiekel.
-                // Console.WriteLine("kies uw bestelling");
-                // string bestelling = Console.ReadLine();
-                // Console.WriteLine("u koos voor " + bestelling);
-                // Console.WriteLine("dit kost " + sortedMenu[bestelling]+" euro");
-                // Console.WriteLine();
-            //Opdracht2
+                Console.WriteLine("kies uw bestelling");
+                string bestelling = Console.ReadLine();
+                Console.WriteLine("u koos voor " + bestelling);
+                Console.WriteLine("dit kost " + sortedMenu[bestelling]+" euro");
+                Console.WriteLine();
+
+            //Opdracht 2.
+                //Gekozen datatype Queue.
                 Console.WriteLine("lijst van nog niet bediende klanten");
                 Queue list = new Queue();
                     list.Enqueue("Anna");
@@ -56,6 +58,7 @@ namespace Opdracht3
                     list.Enqueue("Eva");
                     list.Enqueue("Frederic");
 
+                //Een per 1 verwijderen.
                 for(int i=0; i<6; i++){
                     Console.WriteLine("lijst van nog niet bediende klanten");
                     foreach(Object obj in list){
@@ -64,7 +67,6 @@ namespace Opdracht3
                     }
                     list.Dequeue();
                     Console.WriteLine();
-                // }
             }
         }
     }
