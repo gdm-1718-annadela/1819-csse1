@@ -57,6 +57,7 @@ namespace Opdracht3
                     list.Enqueue("Dries");
                     list.Enqueue("Eva");
                     list.Enqueue("Frederic");
+                    list.Enqueue("Gert");
 
                 //Een per 1 verwijderen.
                 for(int i=0; i<6; i++){
