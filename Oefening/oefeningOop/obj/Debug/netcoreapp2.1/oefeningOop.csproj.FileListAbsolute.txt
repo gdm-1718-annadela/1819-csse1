@@ -1,0 +1,11 @@
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\bin\Debug\netcoreapp2.1\oefeningOop.deps.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\bin\Debug\netcoreapp2.1\oefeningOop.runtimeconfig.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\bin\Debug\netcoreapp2.1\oefeningOop.runtimeconfig.dev.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\bin\Debug\netcoreapp2.1\oefeningOop.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\bin\Debug\netcoreapp2.1\oefeningOop.pdb
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.csprojAssemblyReference.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.csproj.CoreCompileInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.AssemblyInfoInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.AssemblyInfo.cs
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Oefening\oefeningOop\obj\Debug\netcoreapp2.1\oefeningOop.pdb
