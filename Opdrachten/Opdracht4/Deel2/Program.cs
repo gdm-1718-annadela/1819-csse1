@@ -14,7 +14,6 @@ namespace Deel2
             Price price1= new Price();
             price1.Waarde = 10;
             price1.Valuta = "euro";
-            
         }
     }
 }

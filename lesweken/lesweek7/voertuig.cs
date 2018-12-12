@@ -17,6 +17,7 @@ class Voertuig
     //     set;
     // }
 
+    //property
     public int Laadvermogen
     {
         get
@@ -42,7 +43,6 @@ class Voertuig
 
     public Voertuig()
     {
-
     }
 
     //uitlezen

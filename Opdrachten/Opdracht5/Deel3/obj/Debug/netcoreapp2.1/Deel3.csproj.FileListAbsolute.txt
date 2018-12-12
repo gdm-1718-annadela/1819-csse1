@@ -1,0 +1,11 @@
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\bin\Debug\netcoreapp2.1\Deel3.deps.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\bin\Debug\netcoreapp2.1\Deel3.runtimeconfig.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\bin\Debug\netcoreapp2.1\Deel3.runtimeconfig.dev.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\bin\Debug\netcoreapp2.1\Deel3.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\bin\Debug\netcoreapp2.1\Deel3.pdb
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.csprojAssemblyReference.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.csproj.CoreCompileInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.AssemblyInfoInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.AssemblyInfo.cs
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht5\Deel3\obj\Debug\netcoreapp2.1\Deel3.pdb
