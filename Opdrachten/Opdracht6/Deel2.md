@@ -17,7 +17,7 @@ Deze is opgebouwd uit één of meerdere tabellen.
 * Relationele
 * Object-georiënteerde relationele
 
-##Wat zijn de verschillen?
+## Wat zijn de verschillen?
 De hiërarchische gaat vooral gaan werken in boomstructuur.  
 Netwerk gaat veel op veel relaties ondersteunen.  
 Relationele Hier zal de er geen veel op veel relatie zijn maar word er gebruik gemaakt van tabellen
