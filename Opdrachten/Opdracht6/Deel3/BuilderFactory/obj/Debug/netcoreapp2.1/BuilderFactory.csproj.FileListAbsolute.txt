@@ -1,0 +1,11 @@
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\bin\Debug\netcoreapp2.1\BuilderFactory.deps.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\bin\Debug\netcoreapp2.1\BuilderFactory.runtimeconfig.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\bin\Debug\netcoreapp2.1\BuilderFactory.runtimeconfig.dev.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\bin\Debug\netcoreapp2.1\BuilderFactory.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\bin\Debug\netcoreapp2.1\BuilderFactory.pdb
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.csprojAssemblyReference.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.csproj.CoreCompileInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.AssemblyInfoInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.AssemblyInfo.cs
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\BuilderFactory\obj\Debug\netcoreapp2.1\BuilderFactory.pdb

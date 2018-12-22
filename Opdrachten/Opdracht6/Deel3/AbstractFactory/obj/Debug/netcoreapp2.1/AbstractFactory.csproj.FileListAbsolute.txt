@@ -1,0 +1,11 @@
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\bin\Debug\netcoreapp2.1\AbstractFactory.deps.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\bin\Debug\netcoreapp2.1\AbstractFactory.runtimeconfig.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\bin\Debug\netcoreapp2.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\bin\Debug\netcoreapp2.1\AbstractFactory.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\bin\Debug\netcoreapp2.1\AbstractFactory.pdb
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.dll
+C:\Users\Anna\code\gdmgent-1819-csse1\Opdrachten\Opdracht6\Deel3\AbstractFactory\obj\Debug\netcoreapp2.1\AbstractFactory.pdb
